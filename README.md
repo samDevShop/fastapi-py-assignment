@@ -1,0 +1,2 @@
+# FastApiAssignmentPY
+Assignment purpose
