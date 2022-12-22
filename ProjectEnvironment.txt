@@ -1,0 +1,15 @@
+Local IDE Setup
+===============
+Download Visual Studio Code reference link https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+
+GitHub Desktop Tool
+===================
+Download and Configure the Github Desktop tool reference link https://desktop.githubusercontent.com/github-desktop/releases/3.1.2-7cd66717/GitHubDesktopSetup-x64.exe
+
+
+Python env setup
+================
+
+Windows
+-------
+Download and install the python from https://www.python.org/ftp/python/3.8.2/python-3.8.2rc2.exe
